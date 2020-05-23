@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4876ed85-a7bd-48df-921a-046b33e88abc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Memperbarui ilmu Java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjOoA3L56Ig3wwZ9jwGv7Y7Qye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="160" />
+    <property name="last_opened_file_path" value="C:/Tutroial java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyInputForm">
+    <configuration name="MyInputForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CandraApp.File.MyInputForm" />
+      <module name="Memahami Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CandraApp.File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pendahuluan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buku.Pendahuluan" />
+      <module name="Memahami Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buku.Larik.ProgramGeneric" />
+      <module name="Memahami Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buku.Larik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TingkatLanjut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buku.Larik.TingkatLanjut" />
+      <module name="Memahami Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buku.Larik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="candra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CandraApp.File.candra" />
+      <module name="Memahami Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CandraApp.File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyInputForm" />
+        <item itemvalue="Application.candra" />
+        <item itemvalue="Application.ProgramGeneric" />
+        <item itemvalue="Application.TingkatLanjut" />
+        <item itemvalue="Application.Pendahuluan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4876ed85-a7bd-48df-921a-046b33e88abc" name="Default Changelist" comment="" />
+      <created>1577763209251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577763209251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="206" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582365968672">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="452" y="206" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1366.728@0.40.1366.728" timestamp="1582365968672" />
+    <state x="488" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1583636745387">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="488" y="113" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728@0.40.1366.728" timestamp="1583636745387" />
+    <state x="412" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583670893581">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="412" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/0.40.1366.728@0.40.1366.728" timestamp="1583670893581" />
+    <state x="412" y="193" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1583633678126">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="412" y="193" key="#com.intellij.ide.util.TreeFileChooserDialog/0.40.1366.728@0.40.1366.728" timestamp="1583633678126" />
+    <state x="413" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580634677325">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="413" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1366.728@0.40.1366.728" timestamp="1580634677325" />
+    <state x="556" y="291" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1583670896860">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="556" y="291" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.40.1366.728@0.40.1366.728" timestamp="1583670896860" />
+    <state x="448" y="171" key="FileChooserDialogImpl" timestamp="1582435189953">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="448" y="171" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1582435189953" />
+    <state width="434" height="600" key="GridCell.Tab.0.bottom" timestamp="1583671425560">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="434" height="600" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1583671425560" />
+    <state width="434" height="600" key="GridCell.Tab.0.center" timestamp="1583671425560">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="434" height="600" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1583671425560" />
+    <state width="434" height="600" key="GridCell.Tab.0.left" timestamp="1583671425560">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="434" height="600" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1583671425560" />
+    <state width="434" height="600" key="GridCell.Tab.0.right" timestamp="1583671425560">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="434" height="600" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1583671425560" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582906608454">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1582906608454" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1582906608454">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1582906608454" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1582906608454">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1582906608454" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1582906608454">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1582906608454" />
+    <state width="855" height="600" key="GridCell.Tab.2.bottom" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.2.bottom/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.2.center" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.2.center/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.2.left" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.2.left/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.2.right" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.2.right/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.3.bottom" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.3.bottom/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.3.center" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.3.center/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.3.left" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.3.left/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state width="855" height="600" key="GridCell.Tab.3.right" timestamp="1582295233718">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="855" height="600" key="GridCell.Tab.3.right/0.40.1366.728@0.40.1366.728" timestamp="1582295233718" />
+    <state x="127" y="40" key="SettingsEditor" timestamp="1582015812816">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="127" y="40" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1582015812816" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582000011744">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.40.1366.728@0.40.1366.728" timestamp="1582000011744" />
+    <state x="358" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588484094355">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="358" y="236" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1588484094355" />
+    <state x="453" y="284" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1583670840308">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="453" y="284" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.40.1366.728@0.40.1366.728" timestamp="1583670840308" />
+    <state x="259" y="139" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581686268224">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="259" y="139" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.40.1366.728@0.40.1366.728" timestamp="1581686268224" />
+    <state x="92" y="132" width="1182" height="544" key="dock-window-1" timestamp="1582032891549">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="92" y="132" width="1182" height="544" key="dock-window-1/0.40.1366.728@0.40.1366.728" timestamp="1582032891549" />
+    <state x="65" y="40" key="new project wizard" timestamp="1588484154006">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="65" y="40" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1588484154006" />
+    <state x="315" y="203" key="run.anything.popup" timestamp="1581836093361">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="315" y="203" key="run.anything.popup/0.40.1366.728@0.40.1366.728" timestamp="1581836093361" />
+    <state x="323" y="124" width="719" height="643" key="search.everywhere.popup" timestamp="1583636806129">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="323" y="124" width="719" height="643" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1583636806129" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/Memahami Java/com/sama/Candra.class</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sama/WhileLooping.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dadang/Latihan2.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

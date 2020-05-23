@@ -1,0 +1,2 @@
+candra,19303030210,Ilmu Komputer,Teknik Informatika,Medan
+candra,193030302190,Ilmu Kimia,kimia,Medan

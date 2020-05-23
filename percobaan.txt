@@ -1,0 +1,5 @@
+candra_2019_1,2019,candra,gramedia,saya anak orang
+Manusia_2019_1,2019,Manusia,gramedia,Siapa yang bisa mengalahkan akau
+julius_1000_1,1000,julius,kompas,kami memang anak yang baik
+Saya_2012_1,2012,Saya ,penerbit saya,judul saya
+saya_2000_1,2000,saya,perusahaan saya,buku saya
